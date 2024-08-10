@@ -1,4 +1,4 @@
-# XPP
+# EpicPulse (XPP)
 
 ## Release Note：
 
